@@ -1,0 +1,7 @@
+div {
+	display: table-cell;
+    width: 100vw;
+    height: 90vh;
+    vertical-align: middle;
+    text-align: center;
+}
